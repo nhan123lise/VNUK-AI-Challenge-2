@@ -18,7 +18,8 @@ The model development has the following blocks:
   - Saving and loading a dictionary
   - Creating model architecture and train
 ### Results
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/nhan123lise/VNUK-AI-Challenge-2/blob/main/results/1.png)
+![](https://github.com/nhan123lise/VNUK-AI-Challenge-2/blob/main/results/2.png)
+![](https://github.com/nhan123lise/VNUK-AI-Challenge-2/blob/main/results/3.png)
+![](https://github.com/nhan123lise/VNUK-AI-Challenge-2/blob/main/results/4.png)
+![](https://github.com/nhan123lise/VNUK-AI-Challenge-2/blob/main/results/5.png)
